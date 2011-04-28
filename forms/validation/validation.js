@@ -5,8 +5,8 @@
 /*		Developer: Tim Keir						*/
 /*----------------------------------------------*/
 /*		Created: 26/03/2008						*/
-/*		Modified: 10/08/2009					*/
-/*		Version: 0.3							*/
+/*		Modified: 28/04/2010					*/
+/*		Version: 0.4							*/
 /*----------------------------------------------*/
 
 
@@ -15,8 +15,8 @@
 
 	v 0.1	-	26/03/2008 	-	Added validation for all form fields
 	v 0.2	-	12/06/2009	-	Updated documentation
-	v 0.3	-	10/08/2009	-	Fixed global string replace and appended
-								Documentation
+	v 0.3	-	10/08/2009	-	Fixed global string replace and appended Documentation
+	v 0.4	-	28/04/2010	-	Updated documentation to fix spelling mistakes
 								
 	v 1.0	-	01/05/2011	-	COMING SOON - Move to self contained class based syntax
 
@@ -94,7 +94,7 @@
 	Please note that usage with Select boxes is slightly different.
 	You must set the default option to a null value e.g.
 		
-	<div class="NumReq">
+	<div class="Req">
 		<select name="existing_member">
 			<option value="">---</option>
 			<option value="Y">Yes</option>
